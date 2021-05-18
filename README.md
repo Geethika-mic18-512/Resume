@@ -58,7 +58,7 @@ I Want To Software Developer in `Python`
 - Weaknesses:
   - Lazeyness
  
-###  **Projects**
+
  
  
  
