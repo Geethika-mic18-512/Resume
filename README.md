@@ -1,6 +1,6 @@
 # Resume
 
-## Ramu Mandava
+## Geethika Mahankali
 ==================
 
 ### Personal details
